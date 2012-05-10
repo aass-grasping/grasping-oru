@@ -1,7 +1,7 @@
 <package>
   <description brief="libicr is a library to compute independent contact regions on discretized target object">
 
-     This is a wrapper around the library icrcpp, available on GitHub: git@github.com:rtkg/icrcpp.git. For more information see the README in {prefix}/icrcpp.
+     This is a wrapper around the library icrcpp. For more information see the README in {prefix}/icrcpp.
 
   </description>
   <author>Robert Krug</author>
