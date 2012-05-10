@@ -48,9 +48,7 @@ icr_msgs/msg_gen
 icr_msgs/bin
 icr_msgs/include
 icr_msgs/src
-libicr/icrcpp
-libobj/obj-1.0
-libqhull/Qhull-2011.2
+
 *#
 *.#
 *.obj
