@@ -1,4 +1,4 @@
-libicr:
+icrcpp:
   ubuntu: |
       cd `rospack find libicr`/icrcpp
       INCLUDE=`rospack export --lang=cpp --attrib=cflags libobj`
