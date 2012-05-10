@@ -48,12 +48,23 @@ icr_msgs/msg_gen
 icr_msgs/bin
 icr_msgs/include
 icr_msgs/src
+libqhull/Qhull-2011.2/CMakeFiles
+libobj/obj-1.0/Makefile
+libobj/obj-1.0/config.h
+libobj/obj-1.0/config.status
+libobj/obj-1.0/doc/Doxyfile
+libobj/obj-1.0/doc/Makefile
+libobj/obj-1.0/libtool
+libobj/obj-1.0/obj/Makefile
+libobj/obj-1.0/stamp-h1
+libobj/obj-1.0/tools/Makefile
+libqhull/Qhull-2011.2/CMakeCache.txt
+libqhull/Qhull-2011.2/Makefile
+libqhull/Qhull-2011.2/cmake_install.cmake
+libqhull/Qhull-2011.2/install_manifest.txt
 
 *#
 *.#
-*.obj
-*.urdf
-*.dae
 *.stl
 *.zip
 *.a
@@ -62,7 +73,13 @@ icr_msgs/src
 *.exe
 *.bag
 *.o
+*.so
 *.md5sum
+*.Plo
+*.pc
+*.Po
+*.log
+*.sed
 
 # Qt files
 *.pro.user

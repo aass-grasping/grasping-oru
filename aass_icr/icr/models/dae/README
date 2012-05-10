@@ -1,3 +1,0 @@
-The .stl files have to be saved in binary format (Gazebo seems to have problems otherwise) and conform to their counterparts in the .obj folder with the same name
-
-
